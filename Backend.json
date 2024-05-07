@@ -9,7 +9,7 @@
     "price": 800
   },
   "daily3": {
-    "itemGrants": ["AthenaDance:EID_LookAtThis"],
+    "itemGrants": ["AthenaDance:EID_YoureAwesome"],
     "price": 500
   },
   "daily4": {
@@ -29,7 +29,7 @@
     "price": 1500
   },
   "featured2": {
-    "itemGrants": ["AthenaDance:EID_Basketball"],
+    "itemGrants": ["AthenaDance:EID_KPopDance03"],
     "price": 500
   },
   "featured3": {
